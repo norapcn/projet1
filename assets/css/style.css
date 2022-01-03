@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-/* HEADER ****************************************************************/
-
-header {
+.dflex {
     display:flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
+
+/* HEADER ****************************************************************/
