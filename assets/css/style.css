@@ -57,3 +57,19 @@ header {
 #nav-bar>a:hover {
     text-decoration: underline var(--blanc);
 }
+
+/* SECTION 1**************************************************************/
+
+#section1 {
+    background-color: whitesmoke;
+}
+
+#section1 figure img{
+    height: 180px;
+    width: 230px;
+}
+
+#section1 img{
+    height: 400px;
+    width: 320px;
+}
