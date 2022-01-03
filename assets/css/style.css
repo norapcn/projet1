@@ -31,3 +31,13 @@
     height: 400px;
     width: 320px;
 }
+
+#section1 h2{
+    font-size: 2.5rem;
+    font-family: sans-serif;
+}
+
+#section1 a {
+    font-family: sans-serif;
+    color: black;
+}
