@@ -113,6 +113,8 @@ header {
 
 .flex{
     display: flex;
+    overflow-x: scroll;
+    padding-left: 30px;
 }
 
 #section2 h2{
