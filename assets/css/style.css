@@ -119,3 +119,16 @@ header {
     color: var(--color-1);
     font-size: 20px;
 }
+
+#section2 p{
+    font-size: 15px;
+    color: var(--blanc);
+}
+
+#section2 figcaption{
+    color: var(--blanc);
+}
+
+#section2 {
+    background-color: var(--noir);
+}
