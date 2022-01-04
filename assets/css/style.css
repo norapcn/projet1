@@ -61,6 +61,10 @@ header {
 /* SECTION 1**************************************************************/
 
 #section1 {
+    border-left:5px solid var(--color-1);
+}
+
+#section1 {
     background-color: whitesmoke;
 }
 
@@ -82,4 +86,9 @@ header {
 #section1 a {
     font-family: sans-serif;
     color: black;
+    text-decoration: underline;
+}
+
+figcaption{
+    color:  var(--color-1);
 }
