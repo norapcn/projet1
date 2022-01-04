@@ -122,19 +122,23 @@ header {
     font-size: 20px;
 }
 
-#section2 p{
+.pad15 p{
     font-size: 15px;
     color: var(--blanc);
 }
 
 #section2 figcaption{
-    color: var(--blanc);
+    color: var(--noir);
 }
 
 #section2 article {
     background-color: var(--noir);
+    width: 70%;
+    padding-bottom: 180px;
+    margin-bottom: -100px;
 }
 
 #section2 figure{
     padding: 10px;
 }
+
