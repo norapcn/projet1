@@ -131,6 +131,10 @@ header {
     color: var(--blanc);
 }
 
-#section2 {
+#section2 article {
     background-color: var(--noir);
+}
+
+#section2 figure{
+    padding: 10px;
 }
